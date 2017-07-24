@@ -1,0 +1,16 @@
+.tab_4 .tab_title li{
+cursor: pointer;
+}
+#btn_1{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+#btn_1,#btn_2,#btn_3{
+    background: #21C7E5;
+    color: #fff;
+    height:30px;
+    width:60px;
+}
+.videoTabLeft1{
+    display: none;
+}
